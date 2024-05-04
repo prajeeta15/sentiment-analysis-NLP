@@ -1,5 +1,6 @@
 # sentiment-analysis-NLP
 ** using a pre-trained NLP model
+
 notes:
 1. install Transformers
 2. Perform sentiment scoring using BERT

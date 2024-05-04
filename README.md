@@ -36,4 +36,6 @@ process :
 
 Conclusion:
 - we get a sentiment score from 0 to 5, 0 being the worst and 5 being the best for all the reviews about a restaurant in Chicago by web scraping through the Yelp comments.
+- google colab link: https://colab.research.google.com/drive/17rtV0CN9JyWd7DHdJvNufS1NZGvU5e4c
+  
   ![image](https://github.com/prajeeta15/sentiment-analysis-NLP/assets/96904203/0ff6de92-eb71-495b-bd2f-3ffaa12a0b5e)
